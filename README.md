@@ -1,8 +1,9 @@
 <p align="center">
     <p align="center">
-        <a href="https://github.com/vityakut/proxyapi/actions"><img alt="GitHub Workflow Status (master)" src="https://img.shields.io/github/actions/workflow/status/vityakut/proxyapi/tests.yml?branch=main&label=tests&style=round-square"></a>
+        <a href="https://github.com/vityakut/proxyapi/actions"><img alt="GitHub Workflow Status (master)" src="https://img.shields.io/github/actions/workflow/status/vityakut/proxyapi/tests.yml?branch=master"></a>
         <a href="https://packagist.org/packages/vityakut/proxyapi"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/vityakut/proxyapi"></a>
         <a href="https://packagist.org/packages/vityakut/proxyapi"><img alt="Latest Version" src="https://img.shields.io/packagist/v/vityakut/proxyapi"></a>
+        <a href="https://github.com/vityakut/proxyapi/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/vityakut/proxyapi"></a>
         <a href="https://packagist.org/packages/vityakut/proxyapi"><img alt="License" src="https://img.shields.io/github/license/vityakut/proxyapi"></a>
     </p>
 </p>
