@@ -25,7 +25,7 @@ final class ServiceProvider extends BaseServiceProvider implements DeferrablePro
         $this->app->singleton(ClientContract::class, static function (): Client {
             $apiKey = config('proxyapi.api_key');
 
-            if (!empty($apiKey)) {
+            if (!is_string($apiKey)) {
                 throw ApiKeyIsMissing::create();
             }
 
