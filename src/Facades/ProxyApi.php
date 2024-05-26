@@ -6,8 +6,8 @@ namespace vityakut\ProxyApi\Facades;
 
 use Illuminate\Support\Facades\Facade;
 use OpenAI\Contracts\ResponseContract;
-use vityakut\ProxyApi\Testing\ProxyApiFake;
 use OpenAI\Responses\StreamResponse;
+use vityakut\ProxyApi\Testing\ProxyApiFake;
 
 /**
  * @method static \OpenAI\Resources\Assistants assistants()
