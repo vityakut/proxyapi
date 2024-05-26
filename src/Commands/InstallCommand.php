@@ -98,7 +98,7 @@ class InstallCommand extends Command
     private function askToStarRepository(): bool
     {
         if (!$this->input->isInteractive()) {
-                return false;
+            return false;
         }
 
         return $this->confirm(' <options=bold>Wanna show ProxyApi for Laravel some love by starring it on GitHub?</>', false);
