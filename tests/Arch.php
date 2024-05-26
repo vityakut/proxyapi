@@ -9,7 +9,7 @@ test('facades')
     ->toOnlyUse([
         'Illuminate\Support\Facades\Facade',
         'OpenAI\Contracts\ResponseContract',
-        'vityakut\ProxyApi\Testing\OpenAIFake',
+        'vityakut\ProxyApi\Testing\ProxyApiFake',
         'OpenAI\Responses\StreamResponse',
     ]);
 
